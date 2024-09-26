@@ -1,0 +1,25 @@
+.banner {
+  background-color: black;
+  font-family: fantasy;
+  color: #1b03a3;
+  -webkit-text-stroke: 2px #ffff;
+  text-align: center;
+  text-transform: uppercase;
+}
+.map {
+  float: left;
+  width: 70%;
+  padding: 10px;
+}
+
+.info {
+  float: right;
+  background-color: white;
+  width: 20%;
+}
+.info h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}

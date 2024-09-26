@@ -3,6 +3,6 @@ export interface Country {
   capital: string;
   region: string;
   income: string;
-  longitude: GLfloat;
-  latitude: GLfloat;
+  longitude: string;
+  latitude: string;
 }
